@@ -1,16 +1,21 @@
-### Hi there 👋
+### Bem-vindo! Meu nome é Igor Soares. 👋
 
-<!--
-**ispaixao/ispaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como Analista de Suporte Jr.
+- 💻 Estudando .NET e Angular.
+- 💬 Sempre atento no mundo da tecnologia.
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://github.com/ispaixao">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ispaixao&show_icons=true&theme=tokyonight&include=all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ispaixao&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+<div style="display: inline_block;" align="center"> 
+  <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+</div>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

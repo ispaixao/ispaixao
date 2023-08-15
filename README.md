@@ -1,7 +1,6 @@
 ### Bem-vindo! Meu nome é Igor Soares. 👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte Jr.
-- 💻 Estudando .NET e Angular.
+- 💻 Desenvolvedor Full Stack.
 - 💬 Sempre atento no mundo da tecnologia.
 
 <div align="center">
